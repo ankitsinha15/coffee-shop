@@ -1,0 +1,9 @@
+{
+  "title": "Ankit's Coffee House",
+  "description": "Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee from all over the worlds.",
+  "hours": [
+    {"day": "Monday to Friday", "time": "9:00am to 8:00pm"},
+    {"day": "Saturday", "time": "9:00am to 8:00pm"},
+    {"day": "Sunday", "time": "9:00am to 10:00pm"}
+  ]
+}

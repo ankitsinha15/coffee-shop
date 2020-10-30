@@ -1,0 +1,16 @@
+{
+  "blog-page": {
+    "header-blog-img": "/images/cafe-2.jpg"
+  },
+  "section-blog": {
+    "details": [
+      {"image": "/images/insta-4.jpg", "date": "Feb 4, 2019", "writer": "Admin", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"3"},
+      {"image": "/images/insta-2.jpg", "date": "Mar 8, 2019", "writer": "Co-admin", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"2"},
+      {"image": "/images/image_4.jpg", "date": "Aug 10, 2019", "writer": "Writer", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"5"},
+      {"image": "/images/wine-7.jpg", "date": "Sept 3, 2019", "writer": "Owner", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"9"},
+      {"image": "/images/insta-3.jpg", "date": "Mar 4, 2020", "writer": "Admin", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"7"},
+      {"image": "/images/wine-3.jpg", "date": "Jun 15 2020", "writer": "Writer", "caption": "Even the all-powerful Pointing has no control about the blind texts", "more":"Read more", "comment":"4"}
+     
+    ]
+  }
+}

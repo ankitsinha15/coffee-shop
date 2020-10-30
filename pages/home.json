@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "header":"Drink Healthy <br> and Natural Coffee!",
+    "header2":"Eat Delicious <br> and Flavoured Pastries!",
+    "subtext": "At John's House of Coffee, we only brew the freshest coffee from all around the world. <br> We also serve pastries such as cupcakes and brownies.",
+    "bg_image1": "/images/barista.jpg",
+    "bg_image2": "/images/pastries.jpg"
+  },
+  "about": {
+    "header": "Welcome to John's Coffee House.",
+    "subtext": " John's Coffee House is a small shop set up in the front of the brand’s roasting facility that specializes in to-go orders. Find the coffee at restaurants around town, including just around the corner at Star Lounge, Dark Matter's comfortable coffee shop, which has seats for lounging, plus Do-Rite Donuts.",
+    "bg_image": "/images/beans.jpg",
+    "images": [
+      {"image": "/images/coffee.jpg", "caption": "Coffee"},
+      {"image": "/images/tea.jpg", "caption": "Tea"},
+      {"image": "/images/pastry.jpg", "caption": "Pastries"}
+    ]
+  },
+  "experience_image": {
+    "bg_image": "/images/background_image.jpg"
+  },
+
+  "team": {
+    "subheader": "Team",
+    "header": "Meet The Team",
+    "img_background": "/images/cafe50.jpg",
+    "members": [
+      {"name": "John", "image": "/images/person_1.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "owner"},
+      {"name": "Ali", "image": "/images/person_2.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "co-owner"},
+      {"name": "Josh", "image": "/images/person_3.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "invester"},
+      {"name": "Tris", "image": "/images/person_4.jpg", "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "chef"}
+ 
+    ]
+  },
+  "order": {
+    "subheader": "Order",
+    "header": "Place an Order",
+    "img_background":"/images/coffee-man1.jpg"
+  }
+ 
+}
